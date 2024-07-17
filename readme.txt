@@ -1,0 +1,2 @@
+- After creating a docker-compose, run the containers that has been exited already. (producer-1, consumer-1) and wait until the producer container's status is exited.
+- To reach the data from the API -> http://localhost:5000/data
